@@ -8,5 +8,8 @@
 * Death Event
 * Achievement Event
 
-<h1 align="center">Todo</h1>
+<h1 align="center">Todo</h1>  
+
 * Send chat messages to webhook
+* Server up/shutdown message
+* Possibly make a discord bot (DISCORD4J)
