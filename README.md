@@ -11,7 +11,9 @@
 <h1>How to use</h1>
 <p>Just change the WEBHOOK_URL inside the DiscordMC.java file and compile.</p>
 <h1>Screenshots</h1> 
-![discordmc_scrn](https://user-images.githubusercontent.com/52002842/234378147-da7b2784-c2a4-46e8-8c07-7bc30b119e9c.png)
+<picture>
+    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/52002842/234378827-654a8c7c-a274-4ec4-b93a-836e35ace6cb.png">
+</picture>
 
 <h1>Todo</h1>  
 
