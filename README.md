@@ -10,6 +10,8 @@
 
 <h1>How to use</h1>
 <p>Just change the WEBHOOK_URL inside the DiscordMC.java file and compile.</p>
+<h1>Screenshots</h1> 
+![App Screenshot](https://cdn.discordapp.com/attachments/1099701809708273694/1100497731455307866/discordmc_scrn.png)
 <h1>Todo</h1>  
 
 * Send chat messages to webhook
