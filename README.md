@@ -11,7 +11,8 @@
 <h1>How to use</h1>
 <p>Just change the WEBHOOK_URL inside the DiscordMC.java file and compile.</p>
 <h1>Screenshots</h1> 
-![image](https://user-images.githubusercontent.com/52002842/234377961-92a7339a-6fe0-4c90-a79b-0d58e374c331.png)
+![image](https://user-images.githubusercontent.com/52002842/234378106-10d9019e-29c5-4b33-ad33-e5443d372e14.png)
+
 <h1>Todo</h1>  
 
 * Send chat messages to webhook
