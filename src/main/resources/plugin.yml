@@ -1,0 +1,7 @@
+name: DiscordMC
+version: '${project.version}'
+main: me.atluzka.discordmc.DiscordMC
+api-version: 1.19
+authors: [ Atluzka ]
+description: Connect your minecraft server with discord.
+website: https://github.com/Atluzka
